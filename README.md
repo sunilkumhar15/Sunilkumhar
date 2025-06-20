@@ -1,36 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="UTF-8">
   <title>Sunil Kumhar - Digital Village Expert</title>
   <style>
     body {
       font-family: Arial, sans-serif;
-      background-color: #f2f2f2;
+      background-color: #f4f4f4;
       margin: 0;
       padding: 0;
     }
     .header {
       background-color: #2c3e50;
       color: white;
-      padding: 20px;
+      padding: 30px 0;
       text-align: center;
     }
     .profile-img {
-      width: 180px;
-      height: 180px;
+      width: 150px;
+      height: 150px;
       border-radius: 50%;
-      margin: 20px auto;
-      display: block;
-      border: 5px solid #fff;
+      border: 5px solid white;
+      margin-top: -75px;
+      background-color: white;
     }
     .content {
       text-align: center;
       padding: 20px;
-    }
-    .content h2 {
-      color: #2c3e50;
     }
     .info-box {
       background: white;
@@ -39,11 +35,6 @@
       padding: 20px;
       border-radius: 12px;
       box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
-    }
-    .info-box p {
-      font-size: 1.1em;
-      color: #333;
-      line-height: 1.6;
     }
     .footer {
       text-align: center;
@@ -57,25 +48,22 @@
 
   <div class="header">
     <h1>Sunil Kumhar</h1>
-    <p>Digital Village Expert - Sarsoonda, Bhilwara (Rajasthan)</p>
+    <h3>Digital Village Expert</h3>
   </div>
 
-  <img class="profile-img" src="https://your-image-link-here.jpg" alt="Sunil Kumhar" />
+  <img src="https://your-photo-link-here.jpg" alt="Sunil Kumhar" class="profile-img">
 
   <div class="content">
     <div class="info-box">
       <h2>About Me</h2>
-      <p>
-        मेरा नाम सुनील कुम्हार है और मैं भीलवाड़ा जिले के सरसुंडा गाँव से हूँ। मैं एक Digital Village Expert के रूप में कई सरकारी योजनाओं जैसे PM Awas Yojana, DigiLocker, Jan Aadhaar, और अन्य डिजिटल सेवाओं में गाँव के लोगों की मदद करता हूँ।
-      </p>
-      <p>
-        मेरा उद्देश्य गाँवों को डिजिटल बनाना और युवाओं को तकनीकी रूप से जागरूक करना है।
-      </p>
+      <p>मैं सरसुंडा, शाहपुरा (भीलवाड़ा, राजस्थान) से हूँ और एक Digital Village Expert के रूप में गाँव में सरकारी योजनाओं, डिजिटल सेवाओं और ऑनलाइन सहायता में लोगों की मदद करता हूँ।</p>
+      <p>मैंने Digilocker, PM Awas Yojana, जनधन योजना और अन्य सरकारी पोर्टल्स पर काम किया है।</p>
+      <p>मेरा सपना है कि हर गाँव डिजिटल बने और सभी को सही जानकारी समय पर मिले।</p>
     </div>
   </div>
 
   <div class="footer">
-    Contact: sunilkumhar5426@gmail.com | Instagram: <a href="https://instagram.com/skk__47" target="_blank">@skk__47</a>
+    संपर्क करें: sunilkumhar5426@gmail.com
   </div>
 
 </body>
