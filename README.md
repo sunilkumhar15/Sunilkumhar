@@ -1,4 +1,5 @@
-<!DOCTYPE html><html lang="en">
+<!DOCTYPE html>
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -53,19 +54,29 @@
   </style>
 </head>
 <body>
+
   <div class="header">
     <h1>Sunil Kumhar</h1>
-    <p>Digital Village Expert | Bhilwara, Rajasthan</p>
-  </div>  <img src="https://www.instagram.com/skk__47/profile_pic" alt="Sunil Kumhar" class="profile-img" onerror="this.src='https://via.placeholder.com/180';"/>  <div class="content">
+    <p>Digital Village Expert - Sarsoonda, Bhilwara (Rajasthan)</p>
+  </div>
+
+  <img class="profile-img" src="https://your-image-link-here.jpg" alt="Sunil Kumhar" />
+
+  <div class="content">
     <div class="info-box">
       <h2>About Me</h2>
-      <p>My name is Sunil Kumhar and I proudly represent the rural digital revolution from Sarsunda village, Shahpura, Bhilwara, Rajasthan.</p>
-      <p>I have helped many people with services like PM Awas Yojana applications, DigiLocker setup, and various government schemes. I'm passionate about empowering villagers through digital awareness and practical support.</p>
-      <p>Email: sunilkumhar5426@gmail.com</p>
-      <p>Instagram: <a href="https://www.instagram.com/skk__47" target="_blank">@skk__47</a></p>
+      <p>
+        मेरा नाम सुनील कुम्हार है और मैं भीलवाड़ा जिले के सरसुंडा गाँव से हूँ। मैं एक Digital Village Expert के रूप में कई सरकारी योजनाओं जैसे PM Awas Yojana, DigiLocker, Jan Aadhaar, और अन्य डिजिटल सेवाओं में गाँव के लोगों की मदद करता हूँ।
+      </p>
+      <p>
+        मेरा उद्देश्य गाँवों को डिजिटल बनाना और युवाओं को तकनीकी रूप से जागरूक करना है।
+      </p>
     </div>
-  </div>  <div class="footer">
-    &copy; 2025 Sunil Kumhar | All Rights Reserved
   </div>
+
+  <div class="footer">
+    Contact: sunilkumhar5426@gmail.com | Instagram: <a href="https://instagram.com/skk__47" target="_blank">@skk__47</a>
+  </div>
+
 </body>
 </html>
